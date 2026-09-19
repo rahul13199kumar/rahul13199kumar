@@ -19,10 +19,14 @@ Experienced Software Development Engineer with 4+ years of expertise in architec
 
 ### 💼 What I'm Up To
 
-- 🔭 **Currently Building:** [Ravrek Orbit](https://ravrekorbit.com) — A multi-tenant B2B SaaS platform powered by ASP.NET Core and Neon PostgreSQL.
-- 🤖 **AI Innovation:** [Ravrek Orbit AI Lab](https://ravrekorbit.com/ai-lab) — Exploring LLM integrations, generative AI workflows, and automated backend tooling.
-- ⚡ **Specialties:** Python & .NET Microservices, Database Query Optimization (Sub-100ms execution), Payment Integrations, and High-Scale API Design.
-- 💬 **Ask Me About:** C#/.NET Core & Python Performance Optimization, Multi-Tenant Database Schemas, Webhooks, and Cloud Serverless Architecture.
+- 🛸 **Flagship SaaS Engine:**  
+  [![Ravrek Orbit](https://img.shields.io/badge/Production-Ravrek_Orbit-00D2FF?style=for-the-badge&logo=rocket&logoColor=white)](https://ravrekorbit.com) — Multi-tenant enterprise SaaS infrastructure driven by ASP.NET Core & Neon PostgreSQL with sub-100ms execution latency.
+
+- 🧠 **Next-Gen AI R&D:**  
+  [![AI Lab](https://img.shields.io/badge/Experimental-Ravrek_AI_Lab-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)](https://ravrekorbit.com/ai-lab) — Engineering custom LLM agent pipelines, automated backend orchestration, and generative AI developer workflows.
+
+- ⚡ **Core Competencies:** Python & .NET Microservices, Database Query Optimization, Payment Integrations, and Distributed High-Scale API Design.
+- 💬 **Ask Me About:** Multi-Tenant Database Schemas, High-Throughput Webhooks, System Design, and Serverless Cloud Workflows.
 
 ---
 
