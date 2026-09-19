@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Kumar 👋
 
-### 🚀 Backend Systems Architect | .NET & Python Microservices Specialist
+### 🚀 Backend Systems Architect | .NET Microservices Specialist
 
 Experienced Software Development Engineer with 4+ years of expertise in architecting high-throughput REST APIs, multi-tenant SaaS platforms, and distributed microservices across TravelTech, FinTech, and B2B SaaS domains.
 
